@@ -1,0 +1,11 @@
+- [ ] [[Curve Fitting]]
+    - [ ] Method of least squares
+    - [ ] Fitting of straight lines
+    - [ ] Fitting of second-degree parabola
+    - [ ] Exponential curves
+- [ ] [[Correlation and Rank Correlation]]
+- [ ] Regression
+	- [ ] Linear Regression, 
+	- [ ] Non-linear Regression,
+	- [ ] and Multiple Linear Regression
+- [[Maths Workbook U2]]
