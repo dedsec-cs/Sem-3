@@ -4,57 +4,7 @@ These notes break down the concepts from the **Introduction to Artificial Intell
 
 ---
 
-## 1. Course Overview
-
-### What is Artificial Intelligence (AI)?
-
-AI refers to techniques that allow computers to perform tasks that seem "intelligent," mimicking human-like capabilities. Examples include:
-
-- **Recognizing faces** in photos (e.g., unlocking your phone with facial recognition).
-- **Playing games** better than humans (e.g., AlphaGo defeating world champions in Go).
-- **Understanding language** in voice assistants (e.g., Siri or Alexa responding to commands).
-
-**Beginner Insight**: Think of AI as teaching a computer to "think" and "act" like a human for specific tasks. For example, when you ask Google Maps for directions, it uses AI to find the best route.
-
-**Advanced Connection**: AI is a broad field encompassing machine learning, deep learning, and more. These techniques rely on mathematical models, algorithms, and data to simulate intelligent behavior.
-
-### Key Topics Covered in the Course
-
-This course introduces the following core areas of AI:
-
- 1. **Search**: Finding solutions to problems (e.g., the shortest path in a maze).
-	![[Pasted image 20250707170224.png]]
-
-2. **Knowledge**: Representing and reasoning with facts (e.g., diagnosing diseases based on symptoms).
-	![[Pasted image 20250707170306.png]]
-
- 3. **Uncertainty**: Making decisions when outcomes are not guaranteed (e.g., weather forecasting).	
-	![[Pasted image 20250707170319.png]]
-
- 4. **Optimization**: Finding the most efficient solution (e.g., minimizing travel time).
-	![[Pasted image 20250707170329.png]]
- 5. **Machine Learning**: Teaching computers to learn from data (e.g., spam email detection).
-	![[Pasted image 20250707170343.png]]
- 6. **Neural Networks**: Models inspired by the human brain (e.g., image recognition).
-	![[Pasted image 20250707170358.png]]
-
-7. **Natural Language Processing (NLP)**: Understanding human language (e.g., chatbots).	
-   ![[Pasted image 20250707170412.png]]
-
-
-**Beginner Insight**: Each topic is a building block of AI. For now, think of them as tools in a toolbox—each tool solves a different kind of problem.
-
-**Advanced Connection**: These topics are interconnected. For example, search algorithms can be enhanced with machine learning to make them more efficient, and neural networks often power NLP systems.
-
-### Focus of Today’s Lecture: Search
-
-Today, we start with **search**, a fundamental concept where an AI finds a sequence of actions to achieve a goal, like navigating a maze or solving a puzzle.
-
-**Beginner Insight**: Imagine trying to find your way out of a maze. You take steps, explore paths, and backtrack if you hit a dead end. AI search works similarly, but the computer does it systematically.
-
----
-
-## 2. Understanding Search Problems
+## 1. Understanding Search Problems
 
 ### What is a Search Problem?
 
