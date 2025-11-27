@@ -1,0 +1,4 @@
+- [[Memory Management In One Short]]
+- [[Paging, Segmentation And VM]]
+- [[Numerical Prac U4]]
+- [[U4-Important Questions]]

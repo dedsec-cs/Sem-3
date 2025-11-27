@@ -1,4 +1,0 @@
-- [[Operating System 1]]
-- [[Operating System 2]]
-- [[Operating System 3]]
-- 

@@ -1,4 +1,0 @@
-- [[Threads OS]]
-- [[Process Synchronization- Race Condition]]
-- [[Process Sync In One Shot]]
-- [[Deadlock]]

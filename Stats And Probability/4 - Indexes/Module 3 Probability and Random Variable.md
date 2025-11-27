@@ -2,6 +2,7 @@
 - [ ] [[Introduction To Probability]]
 - [ ] [[Laws Of Probability]]
 - [ ] [[Random Variable]]
+- [ ] [[U3.4- Practice Set 1]]
     - [ ] Definition of a Random Variable
     - [ ] Discrete Random Variable
     - [ ] Continuous Random Variable
@@ -9,6 +10,7 @@
     - [ ] Probability Density Function
     - [ ] Distribution functions
 - [ ] Multiple Random Variables
+- [ ] [[U3.6-Practice Set 2]]
     - [ ] Joint Density and Distribution Function
     - [ ] Properties of Joint Distribution function
     - [ ] Marginal Density Functions
@@ -16,4 +18,4 @@
     - [ ] Statistical Independence
     - [ ] Central Limit Theorem (Proof not expected)
 - [ ] [[Workbook Questions U3]]
-- [ ] [[Workbook Solved U3]]
+- [ ] [[Math's Workbook U3 Solution]]

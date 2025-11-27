@@ -50,3 +50,64 @@ Just Extract All The Notes From This Don't Add Anything Extract The Text Don't E
 Also Extract Questions Not The Solution And Don't Solve The Questions
 ```
 
+```
+Solve These OS Questions 5 At A Time In Proper Formatting:-
+
+  
+
+For Answering The Questions Remember U Just Gotta Answer 5 At A Time 
+
+  
+
+Give Me The Solutions In Format:-
+
+  
+
+Question 1: 
+
+Question Here
+
+  
+
+Solution:
+
+Solution Here 
+
+  
+
+---
+
+  
+
+Question 2: 
+
+Question Here
+
+  
+
+Solution:
+
+Solution Here 
+
+  
+
+---
+
+  
+
+Question 3: 
+
+Question Here
+
+  
+
+Solution:
+
+Solution Here 
+
+  
+
+I Will Be Providing Questions After This Prompt
+Provide Me q1 to q5 Without Any Cite Or References in clean formatting 
+```
+

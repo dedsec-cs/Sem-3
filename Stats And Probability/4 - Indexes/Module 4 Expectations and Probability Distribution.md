@@ -8,4 +8,4 @@
 	- [ ] Normal Distribution
 	- [ ] Exponential Distribution
 - [ ] [[Math's Workbook U4]]
-- [ ] [[Math's Workbook U4 Solved]]
+- [ ] [[Math's Workbook U4 Solution]]

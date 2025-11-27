@@ -1,11 +1,14 @@
-- [ ] [[Curve Fitting]]
+- [ ] [[U2.0-Log Run Through]]
+- [ ] [[U2.1-Curve Fitting]]
     - [ ] Method of least squares
     - [ ] Fitting of straight lines
     - [ ] Fitting of second-degree parabola
     - [ ] Exponential curves
-- [ ] [[Correlation and Rank Correlation]]
-- [ ] [[Regression]]
+- [ ] [[U2.2-Correlation and Rank Correlation]]
+- [ ] [[U2.3-Regression]]
 	- [ ] Linear Regression, 
 	- [ ] Non-linear Regression,
 	- [ ] and Multiple Linear Regression
+- [ ] [[U2-TopicWise Questions]]
 - [[Maths Workbook U2]]
+- [[U2 Workbook Solved]]

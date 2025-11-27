@@ -1,17 +1,18 @@
-- [ ] Testing a Hypothesis
-	- [ ] Null hypothesis
-	- [ ] Alternative hypothesis
-	- [ ] Level of significance
-	- [ ] Confidence limits
-- [ ] Test of significance of difference of means
-	- [ ] Z-test
-	- [ ] t-test
-	- [ ] chi-test
-	- [ ] F-test
-	- [ ] One way ANOVA
-- [ ] Statistical Quality Control (SQC)
-	- [ ] Control Charts 
-	- [ ] Control Charts for Variables(Mean and Range Charts)
-	- [ ] Control Charts for Variables(p, np and C charts)
+- [x] [[U5.1-Testing a Hypothesis]]
+	- [x] Null hypothesis
+	- [x] Alternative hypothesis
+	- [x] Level of significance
+	- [x] Confidence limits
+- [ ] [[U5.2-Test of significance of difference of means]]
+	- [ ] [[U5.2.1-Z-test]]
+	- [ ] [[U5.2.2-T-test]]
+	- [ ] [[U5.2.3-F-test]]
+	- [ ] [[U5.2.4-Chi-Square-Test]]
+	- [ ] [[U5.2.5-One way ANOVA]]
+- [ ] [[U5.3-Control Charts]]
+	- [ ] U5.3.1-Control Charts 
+	- [ ] U5.3.2-Control Charts for Variables(Mean and Range Charts)
+	- [ ] U5.3.3-Control Charts for Variables(p, np and C charts)
+- [ ] [[U5-Topic Wise Questions]]
 - [ ] [[Math's Workbook U5]]
 - [ ] [[Math's Workbook U5 Solved]]

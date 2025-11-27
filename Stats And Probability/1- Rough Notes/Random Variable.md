@@ -392,16 +392,6 @@ The **Probability Distribution** of the number of defective bulbs ($X$) drawn is
 |             **Sum**             | $12,650 / 12,650 = 1$ |
 
 
-
-
-
-
-
-
-
-
-
-
 That's an excellent move! **Continuous Random Variables** are fundamentally different from discrete ones because they deal with ranges rather than distinct points, which is why we use integration instead of summation.
 
 ---

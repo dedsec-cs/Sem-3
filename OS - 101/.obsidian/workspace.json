@@ -10,16 +10,111 @@
           {
             "id": "5fd74d3f3d79ddbf",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3 - Material Dump/Theory One Shot OS.pdf"
+                "file": "4 - Indexes/College Index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Theory One Shot OS"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "College Index"
+            }
+          },
+          {
+            "id": "f3dc19eccdfee4d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Rough Notes/Unit 2 OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Unit 2 OS"
+            }
+          },
+          {
+            "id": "9cbd1a349979096e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Rough Notes/Unit 4 OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Unit 4 OS"
+            }
+          },
+          {
+            "id": "d02f4e8368f2ff84",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1- Rough Notes/Unit 1 OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Unit 1 OS"
+            }
+          },
+          {
+            "id": "86b471b667898dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/U1-Important Questions Listed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "U1-Important Questions Listed"
+            }
+          },
+          {
+            "id": "60fca46c316ef893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/U1-Important Solutions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "U1-Important Solutions"
+            }
+          },
+          {
+            "id": "a80547d8e6a1d940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Prompt.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -76,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc74bd27716b993d",
@@ -177,34 +273,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fd74d3f3d79ddbf",
+  "active": "a80547d8e6a1d940",
   "lastOpenFiles": [
+    "6 - Full Notes/U1-Important Solutions.md",
+    "6 - Full Notes/U1/U1-Important Solutions.pdf",
+    "6 - Full Notes/U1-Important Questions Listed.md",
+    "Pasted image 20251128001100.png",
     "4 - Indexes/Prompt.md",
-    "4 - Indexes/Linux 101.md",
-    "4 - Indexes/Operating System Index.md",
-    "1- Rough Notes/Things I Might Need To Look Into Again.md",
+    "1- Rough Notes/Unit 1 OS.md",
+    "6 - Full Notes/U5 Important Questions.md",
+    "1- Rough Notes/Unit 5 OS.md",
     "4 - Indexes/College Index.md",
-    "4 - Indexes/College HandNotes.md",
+    "6 - Full Notes/U4-Important Questions.md",
+    "1- Rough Notes/Unit 4 OS.md",
+    "6 - Full Notes/U3 Important Questions.md",
+    "1- Rough Notes/Unit 3 OS.md",
+    "6 - Full Notes/U2-Important Questions.md",
+    "1- Rough Notes/Unit 2 OS.md",
+    "6 - Full Notes/U4/U4.2-Paging, Segmentation And VM.pdf.crdownload",
+    "6 - Full Notes/U4/U4.1-Memory Management In One Short.pdf.crdownload",
+    "1- Rough Notes/Memory Management In One Short.md",
+    "1- Rough Notes/Paging, Segmentation And VM.md",
+    "6 - Full Notes/U4/U4.2-Paging, Segmentation And VM.pdf",
+    "6 - Full Notes/U4/U4.1-Memory Management In One Short.pdf",
+    "6 - Full Notes/U4",
+    "6 - Full Notes/New folder",
+    "1- Rough Notes/Numerical Prac U4.md",
     "4 - Indexes/Assignments.md",
-    "4 - Indexes/Introduction.md",
-    "4 - Indexes/Process Management.md",
-    "6 - Full Notes/Unit 5 OS.md",
-    "6 - Full Notes/IO Management And Disk Scheduling.md",
-    "6 - Full Notes/Memory Management.md",
-    "6 - Full Notes/Unit 4 OS.md",
-    "6 - Full Notes/Unit 2 OS.md",
-    "6 - Full Notes/Unit 3 OS.md",
-    "6 - Full Notes/Deadlock.md",
-    "6 - Full Notes/Process Sync In One Shot.md",
-    "6 - Full Notes/Process Synchronization- Race Condition.md",
-    "6 - Full Notes/Process Synchronization & Deadlock.md",
-    "6 - Full Notes/Threads & Multithreading.md",
-    "6 - Full Notes/Threads OS.md",
-    "6 - Full Notes/Threads 101.md",
-    "6 - Full Notes/First Come First Server (FCFS).md",
-    "6 - Full Notes/Scheduling Template.md",
-    "6 - Full Notes/CPU Scheduling Basics.md",
-    "6 - Full Notes/CPU Scheduling.md",
+    "1- Rough Notes/Threads OS.md",
+    "1- Rough Notes/Scheduling Template.md",
+    "6 - Full Notes/U2/U2.6-Scheduling Template.pdf",
+    "1- Rough Notes/CPU Scheduling Basics.md",
+    "6 - Full Notes/U2/U2.5-CPU Scheduling Basics.pdf",
+    "1- Rough Notes/Process Management 1.md",
+    "1- Rough Notes/Operating System 1.md",
+    "6 - Full Notes/U1/dark_mode_Unit 1 Complete.pdf.crdownload",
+    "1- Rough Notes/Process Management 3.md",
+    "1- Rough Notes/Process Management 2.md",
+    "1- Rough Notes/Operating System 3.md",
     "5 - Screenshot Dump/Pasted image 20251121072506.png",
     "5 - Screenshot Dump/Pasted image 20251121072459.png",
     "5 - Screenshot Dump/Pasted image 20251121071047.png",
@@ -214,17 +320,6 @@
     "5 - Screenshot Dump/Pasted image 20251121070933.png",
     "5 - Screenshot Dump/Pasted image 20251121070603.png",
     "5 - Screenshot Dump/Pasted image 20251014152718.png",
-    "5 - Screenshot Dump/Pasted image 20251013214137.png",
-    "3 - Material Dump/Theory One Shot OS.pdf",
-    "3 - Material Dump/Unit_5/Operating System (OS) Unit-5.pdf",
-    "3 - Material Dump/Unit_4/Operating System (OS) Unit-4.pdf",
-    "3 - Material Dump/Unit_2/Operating System (OS) Unit-2.pdf",
-    "3 - Material Dump/Unit_3/Operating System (OS) Unit-3.pdf",
-    "2 - Source Material/GATE CS Free Resourcs - Anjali (AIR13).pdf",
-    "2 - Source Material/Silberschatz 9th edition.pdf",
-    "2 - Source Material/Lab Syllabus.pdf",
-    "2 - Source Material/~$ lab  2025 new sem.docx",
-    "2 - Source Material/Unit 1.pdf",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas"
