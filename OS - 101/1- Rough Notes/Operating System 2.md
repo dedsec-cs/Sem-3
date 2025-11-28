@@ -86,7 +86,7 @@ Key considerations: Kernel (core) vs. user space; how services (file system, net
   **Intermediate**: Example—Early UNIX/Linux; System calls for user-kernel interaction.  
   **Advanced**: Pros—High performance due to direct calls; Cons—Bloat, hard to extend without recompiling. Modern variants add modules for flexibility.
 
-- **Microlithic Architecture** (Note: This appears to be a likely typo or variant for "Microkernel Architecture"; I'll explain as Microkernel, the standard term.)  
+- **Microkernel Architecture** (Note: This appears to be a likely typo or variant for "Microkernel Architecture"; I'll explain as Microkernel, the standard term.)  
   **Basic**: Minimal kernel (microkernel) handles only essentials like IPC (Inter-Process Communication), scheduling; other services (drivers, file systems) run as user-space processes.  
   **Intermediate**: Example—Minix, Mach (basis for macOS); Messages pass between components.  
   **Advanced**: Pros—Better isolation (crashes don't kill kernel), easier updates; Cons—Slower due to message passing. Used in secure systems like QNX for real-time.
