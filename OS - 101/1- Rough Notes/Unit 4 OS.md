@@ -2,3 +2,4 @@
 - [[Paging, Segmentation And VM]]
 - [[Numerical Prac U4]]
 - [[U4-Important Questions]]
+- [[U4-Important Solutions]]

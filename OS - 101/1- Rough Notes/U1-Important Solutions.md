@@ -715,16 +715,16 @@ done
 echo "" # Print a final newline for clean formatting
 ```
 
-| Step | Script Line(s) | Explanation |
-| :--- | :--- | :--- |
-| **Initialization** | `a=0`, `b=1` | Sets the two starting numbers of the sequence (0 and 1). |
-| **User Input** | `read -p "..." N` | Asks the user how many numbers they want and stores it in variable **N**. |
-| **Output Start** | `if [ $N -ge 1 ];...` | Prints the starting numbers (0 and 1), checking if the user asked for at least 1 or 2 terms. |
-| **Loop Start** | `while [ $i -lt $N ];` | Starts a loop that continues until the required number of terms (N) is reached. |
-| **Calculation** | `c=$((a + b))` | Calculates the **next Fibonacci number** by adding the two previous numbers. |
-| **Printing** | `echo -n "$c "` | Displays the newly calculated term. |
-| **Shifting** | `a=$b`, `b=$c` | **Shifts the values:** The current second term (`b`) becomes the new first term (`a`), and the new term (`c`) becomes the second term (`b`) for the next cycle. |
-| **Increment** | `i=$((i + 1))` | Increases the counter to move to the next term number. |
+| Step               | Script Line(s)         | Explanation                                                                                                                                                     |
+| :----------------- | :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Initialization** | `a=0`, `b=1`           | Sets the two starting numbers of the sequence (0 and 1).                                                                                                        |
+| **User Input**     | `read -p "..." N`      | Asks the user how many numbers they want and stores it in variable **N**.                                                                                       |
+| **Output Start**   | `if [ $N -ge 1 ];...`  | Prints the starting numbers (0 and 1), checking if the user asked for at least 1 or 2 terms.                                                                    |
+| **Loop Start**     | `while [ $i -lt $N ];` | Starts a loop that continues until the required number of terms (N) is reached.                                                                                 |
+| **Calculation**    | `c=$((a + b))`         | Calculates the **next Fibonacci number** by adding the two previous numbers.                                                                                    |
+| **Printing**       | `echo -n "$c "`        | Displays the newly calculated term.                                                                                                                             |
+| **Shifting**       | `a=$b`, `b=$c`         | **Shifts the values:** The current second term (`b`) becomes the new first term (`a`), and the new term (`c`) becomes the second term (`b`) for the next cycle. |
+| **Increment**      | `i=$((i + 1))`         | Increases the counter to move to the next term number.                                                                                                          |
 
 -----
 
