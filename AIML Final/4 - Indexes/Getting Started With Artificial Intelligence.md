@@ -1,8 +1,0 @@
-- [[00.Getting Started with Artificial Intelligence_ A Practical -- Tom Markiewicz and Josh Zheng -- 2, 2020 -- O'Reilly Media, Incorporated.pdf]]
-- [[Introduction To Artificial Intelligence]]
-- [[Natural Language Processing]]
-- [[Chatbots Introduction]]
-- [[Computer Vision]]
-- [[AI Data Pipeline]]
-- [[Hybrid Clouds]]
-- [[Next Thing To Focus On]]
